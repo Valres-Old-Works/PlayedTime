@@ -1,0 +1,3 @@
+top-title: "§9Top 10§r best played time players :"
+top-lines: "§9 - # {rank}§r {name} : {time}"
+our-time: "Your played time : {time} !"
